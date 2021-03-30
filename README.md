@@ -10,6 +10,10 @@ Dataset Download
 Link:https://drive.google.com/drive/u/0/folders/19lHHjbqvFkKp-ZFXYiRuk1k-Mo9YBQY2
 
 
+In order to train a model you need to download dataset using above link or download train_images,train_labels,test_images,test_labels,val_images,val_labels using this link:
+https://drive.google.com/drive/u/0/folders/19lHHjbqvFkKp-ZFXYiRuk1k-Mo9YBQY2
+
+
 
 
 This system takes hand gestures as input through video and translates it text which could be understood by a non-signer. There will be the use of CNN for the classification of hand gestures. This system will make communication speech impaired people less complex.
