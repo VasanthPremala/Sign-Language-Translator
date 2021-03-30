@@ -10,7 +10,7 @@ Dataset Download
 Link:https://drive.google.com/drive/u/0/folders/19lHHjbqvFkKp-ZFXYiRuk1k-Mo9YBQY2
 
 
-In order to train a model you need to download dataset using above link or download train_images,train_labels,test_images,test_labels,val_images,val_labels using this link:
+In order to train a model you need to download dataset using above link and run load image python program to generate train_images,train_labels,test_images,test_labels,val_images,val_labels  or download train_images,train_labels,test_images,test_labels,val_images,val_labels using this link:
 https://drive.google.com/drive/u/0/folders/19lHHjbqvFkKp-ZFXYiRuk1k-Mo9YBQY2
 
 
