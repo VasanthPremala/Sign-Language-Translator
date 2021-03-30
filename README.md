@@ -10,6 +10,8 @@ Dataset Download
 Link:https://drive.google.com/drive/u/0/folders/19lHHjbqvFkKp-ZFXYiRuk1k-Mo9YBQY2
 
 
+
+
 This system takes hand gestures as input through video and translates it text which could be understood by a non-signer. There will be the use of CNN for the classification of hand gestures. This system will make communication speech impaired people less complex.
 
 
